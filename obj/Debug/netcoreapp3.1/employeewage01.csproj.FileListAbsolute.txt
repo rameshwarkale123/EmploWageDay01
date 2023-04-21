@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.AssemblyInfo.cs
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\source\day2\employeewage01\bin\Debug\netcoreapp3.1\employeewage01.exe
+C:\Users\Rameshwar kale\source\day2\employeewage01\bin\Debug\netcoreapp3.1\employeewage01.deps.json
+C:\Users\Rameshwar kale\source\day2\employeewage01\bin\Debug\netcoreapp3.1\employeewage01.runtimeconfig.json
+C:\Users\Rameshwar kale\source\day2\employeewage01\bin\Debug\netcoreapp3.1\employeewage01.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\source\day2\employeewage01\bin\Debug\netcoreapp3.1\employeewage01.dll
+C:\Users\Rameshwar kale\source\day2\employeewage01\bin\Debug\netcoreapp3.1\employeewage01.pdb
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.dll
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.pdb
+C:\Users\Rameshwar kale\source\day2\employeewage01\obj\Debug\netcoreapp3.1\employeewage01.genruntimeconfig.cache
